@@ -1,0 +1,12 @@
+{
+  "title": "Skill Radar",
+  "axes": [
+    { "label": "Python", "value": 85 },
+    { "label": "FastAPI", "value": 78 },
+    { "label": "ML / Scikit-learn", "value": 75 },
+    { "label": "React", "value": 65 },
+    { "label": "PostgreSQL", "value": 70 },
+    { "label": "LLM / RAG", "value": 78 },
+    { "label": "DSA", "value": 72 }
+  ]
+}

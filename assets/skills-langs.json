@@ -1,0 +1,33 @@
+{
+  "title": "CHANDU-M05 \u00b7 language mix",
+  "axes": [
+    {
+      "label": "Jupyter Notebook",
+      "value": 100.0
+    },
+    {
+      "label": "Python",
+      "value": 21.1
+    },
+    {
+      "label": "JavaScript",
+      "value": 10.8
+    },
+    {
+      "label": "Java",
+      "value": 10.5
+    },
+    {
+      "label": "HCL",
+      "value": 5.5
+    },
+    {
+      "label": "CSS",
+      "value": 4.2
+    },
+    {
+      "label": "HTML",
+      "value": 2.1
+    }
+  ]
+}

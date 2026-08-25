@@ -1,0 +1,12 @@
+{
+  "projects": [
+    { "repo": "kisanmitra",
+      "description": "ML-based crop price forecasting and market-intelligence platform for Karnataka smallholder farmers, with a Gemini-powered RAG advisory chatbot over WhatsApp." },
+    { "repo": "retention-agent",
+      "description": "An automated agent for modeling and acting on customer retention risk." },
+    { "repo": "DocLens",
+      "description": "AI-powered documentation analyzer with multi-LLM support, crawl caching, diff mode, and competitor analysis." },
+    { "repo": "Insight_AI",
+      "description": "Local, private AI-powered data analysis with automatic profiling, transparent generated code, and PDF reporting." }
+  ]
+}
